@@ -2,8 +2,6 @@
 
 A web-based physics game inspired by the classic Angry Birds. Launch birds to knock down structures, created using JavaScript and game physics principles.
 
-![Angry Birds Clone Gameplay](README_image.png)
-
 
 
 
